@@ -1,0 +1,3 @@
+# OVS_blogs
+a basic web application for understanding the concept of bootstrap.
+......learning.......
